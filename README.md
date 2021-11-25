@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hacker-terminal
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning pentesting
